@@ -1,0 +1,38 @@
+html, body{
+  font-family: 'Blinker', sans-serif;
+  background-image: url("https://media.giphy.com/media/xjIsb648nX0pw8kdBd/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+
+
+
+h1{
+font-family: 'Beth Ellen', cursive;
+  color: red;
+}
+
+ a{
+   color: pink;
+ }
+
+.big {
+  width: 10%;
+  opacity: 0.7;
+}
+
+#duck {
+  width: 20%;
+  opacity: 0.7;
+}
+
+.class1 {
+  font-family: 'Grenze', serif;
+  color: orange;
+}
+
+p {
+  font-family: 'Lacquer', sans-serif;
+  color: yellow;
+}
